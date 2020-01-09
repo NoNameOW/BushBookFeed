@@ -1,0 +1,16 @@
+<rss version="2.0">
+<channel>
+   <title>Mrs. Bush's Book Reccomendations</title>
+    <link>https://northshore.nsd.org/academics/library</link>
+    <image>
+    <url>...</url>
+    <link>...</link>
+    </image>
+    <description>A list of books Mrs. Bush reccomends</description>
+    <item>
+    <title>Book</title>
+    <link>Link?</link>
+    <description></description>
+    </item>
+</channel>
+</rss>
