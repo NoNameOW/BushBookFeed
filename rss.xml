@@ -2,21 +2,17 @@
 <channel>
    <title>Mrs. Bush's Book Reccomendations</title>
     <link>https://northshore.nsd.org/academics/library</link>
-    <image>
-    <url>...</url>
-    <link>...</link>
-    </image>
     <description>A list of books Mrs. Bush reccomends</description>
-    <item>
+   <item>
     <title>Book</title>
-       <link>Link?</link>
-      <description></description>
-    </item>
+    <link>Link?</link>
+    <description></description>
+   </item>
 <!--Example:-->    
    <item>
     <title>Skeleton Creek by Patrick Carman</title>
     <link>https://library.nsd.org/cataloging/servlet/presenttitledetailform.do?siteTypeID=-2&siteID=&includeLibrary=true&includeMedia=false&mediaSiteID=&bibID=209272&walkerID=1578682163337</link>
     <description>Although housebound following an eerie accident, teenaged Ryan continues to investigate the strange occurrences in his hometown of Skeleton Creek, recording his findings in a journal and viewing email video clips sent by fellow detective Sarah.</description>
-    </item>
+   </item>
 </channel>
 </rss>
