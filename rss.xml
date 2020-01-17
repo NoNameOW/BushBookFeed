@@ -6,13 +6,13 @@
    <item>
     <title>Book</title>
     <link>Link?</link>
-    <description></description>
+    <description alt=“my image”/></description>
    </item>
 <!--Example:-->    
    <item>
     <title>Skeleton Creek by Patrick Carman</title>
     <link>https://shorturl.at/bfmsC</link>
-    <description>Although housebound following an eerie accident, teenaged Ryan continues to investigate the strange occurrences in his hometown of Skeleton Creek, recording his findings in a journal and viewing email video clips sent by fellow detective Sarah.</description>
+    <description alt=“skeletoncreek”/>Although housebound following an eerie accident, teenaged Ryan continues to investigate the strange occurrences in his hometown of Skeleton Creek, recording his findings in a journal and viewing email video clips sent by fellow detective Sarah.</description>
    </item>
 </channel>
 </rss>
